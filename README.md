@@ -1,4 +1,4 @@
-🔧 amateur Low-Level Engineer | Aspiring Game Dev | C++ & Vulkan Enthusiast | Code Perfectionist | Blending Art with Technology
+🔧 Amateur Low-Level Engineer | Aspiring Game Dev | C++ & Vulkan Enthusiast | Code Perfectionist | Blending Art with Technology
 
 👋 Hey, I'm Josiah! I'm all about diving deep into technology and gaming. Currently, I'm honing my skills in low-level engineering, focusing on C++ and the dynamic world of Vulkan.
 
