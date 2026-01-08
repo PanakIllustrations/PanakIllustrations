@@ -1,13 +1,13 @@
 # Josiah Panak
 
-**CS Student @ CU Boulder | Systems Programming & Performance Optimization | Graduating Dec 2025**
+**CS Student @ CU Boulder | Systems Programming & Performance Optimization | Graduated Dec 2025**
 
-Building efficient, well-designed software. Interested in systems programming, graphics, and game development.
+Building efficient, well-designed software. Interested in embedded systems, graphics, and game development.
 
 **Pinned Projects:**
-- **Image Processing Optimization** - 1000× performance improvement through cache optimization & parallelization (C++, OpenMP)
-- **Custom Unix Shell** - Process control & signal handling implementation (C, Unix)
-- **BookBag** - Full-stack book review app with optimized database design (HTML/CSS/SQL)
+- **Histopathologic-Cancer-Detection** - Deep learning CNN for tumor classification (96.6% accuracy, AUC 0.99)
+- **MCLU** - Custom Minecraft UI mod with optimized floating-point rendering
+- **BookBag** - Full-stack book review app with optimized database design
 
 **Tech Stack:** Python | C/C++ | Java | SQL | Git | Unity | Linux
 
