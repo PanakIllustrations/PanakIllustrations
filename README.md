@@ -8,6 +8,7 @@ Building efficient, well-designed software. Interested in embedded systems, grap
 - **Histopathologic-Cancer-Detection** - Deep learning CNN for tumor classification (96.6% accuracy, AUC 0.99)
 - **MCLU** - Custom Minecraft UI mod with optimized floating-point rendering
 - **BookBag** - Full-stack book review app with optimized database design
+- **Enhanced-Natural-Language-Parser-for-Zork** - Experimental integration of modern NLP techniques into a classic text based game engine
 
 **Tech Stack:** Python | C/C++ | Java | SQL | Git | Unity | Linux
 
